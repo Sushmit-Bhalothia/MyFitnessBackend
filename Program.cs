@@ -1,4 +1,5 @@
 global using Microsoft.EntityFrameworkCore;
+global using MyFitnessBackendApi.Models;
 global using MyFitnessBackendApi.Data;
 var builder = WebApplication.CreateBuilder(args);
 

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 
+
 namespace MyFitnessBackendApi.Data
 {
     public class DataContext : DbContext
@@ -12,6 +13,7 @@ namespace MyFitnessBackendApi.Data
         {
             
         }
+        public DbSet<User> Users => Set<User>();
     
         
     }
