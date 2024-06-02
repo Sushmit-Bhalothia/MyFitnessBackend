@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lK7utbpA0OdIqNAcDr0MW3WmbdWCOpBgWoNdyI48Ecs=",
+  "Source": "MyFitnessBackendApi",
+  "BasePath": "_content/MyFitnessBackendApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
